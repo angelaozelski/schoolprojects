@@ -1,12 +1,12 @@
 # schoolprojects
-This is a list of projects I have worked on while in the MBA program at Syracuse University. My MBA concentration is Business Analytics. 
+#### This is a list of projects I have worked on while in the MBA program at Syracuse University. My MBA concentration is Business Analytics. 
 
 The Intro to DS Project:
 
 Implemented a data analytics project using R to analyze and predict house prices. The project involved cleaning and preprocessing a dataset containing information about various houses, including features like carpet area, number of bathrooms, balconies, furnishing status, and location.
 We used multiple regression to analyze this data and identify variables that were statistically significant.
 
-Foodie Express:
+##### Foodie Express:
 
 Created a comprehensive database schema for the 'FoodieExpress' system.
 Defined tables for users, addresses, restaurants, menu items, orders, and bills.
